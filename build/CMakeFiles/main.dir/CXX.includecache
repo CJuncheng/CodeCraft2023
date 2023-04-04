@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jcchen/CodeCraft2023-v2/LinuxRelease/SDK/main.cpp
+navigation.h
+/home/jcchen/CodeCraft2023-v2/LinuxRelease/SDK/navigation.h
+
+/home/jcchen/CodeCraft2023-v2/LinuxRelease/SDK/navigation.cpp
+navigation.h
+/home/jcchen/CodeCraft2023-v2/LinuxRelease/SDK/navigation.h
+
+/home/jcchen/CodeCraft2023-v2/LinuxRelease/SDK/navigation.h
+read_until_ok.h
+/home/jcchen/CodeCraft2023-v2/LinuxRelease/SDK/read_until_ok.h
+set
+-
+algorithm
+-
+iostream
+-
+cmath
+-
+
+/home/jcchen/CodeCraft2023-v2/LinuxRelease/SDK/read_until_ok.cpp
+read_until_ok.h
+/home/jcchen/CodeCraft2023-v2/LinuxRelease/SDK/read_until_ok.h
+
+/home/jcchen/CodeCraft2023-v2/LinuxRelease/SDK/read_until_ok.h
+iostream
+-
+vector
+-
+sstream
+-
+

@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "cmath": "cpp"
+    }
+}

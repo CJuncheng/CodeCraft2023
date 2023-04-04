@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/navigation.cpp.o CMakeFiles/main.dir/read_until_ok.cpp.o  -o main 
